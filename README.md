@@ -85,11 +85,28 @@ There are **50+** Features/Commands Are there in **this bot!** You can see **all
 ## 👨‍💻 Developers & Contributors 👨‍💻
 
  [![TOXIC-DEVIL](https://github.com/TOXIC-DEVIL.png?size=100)](https://github.com/TOXIC-DEVIL) |  
+
 ----|
+
 [TOXIC-DEVIL](https://github.com/TOXIC-DEVIL)  |
+
 Author: Developer, Base, Bug Fixes, Commits, Modules | 
 
-## ✨ Special Features ✨
+  # 👨‍💻 WhatsAlexa modified version modified contributor 👨‍💻
+
+ [![Kaweeeha Chamod](https://github.com/kaweeshachamodk.png?size=100)](https://github.com/kaweeshachamodk) |  
+
+----|
+
+[kaweesha chamod](https://github.com/kaweeshachamodk)  |
+
+Author: Developer, Base, Bug Fixes, Commits, Modules | 
+  
+  
+  
+  https://i.imgur.com/MZDCN2M.jpegi
+  
+  ## ✨ Special Features ✨
 
 - [x] Alexa Voice Chatbot [ This is not amazon alexa ]
 
