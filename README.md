@@ -1,4 +1,4 @@
-## 🤔 What is WhatsAlexa?! 🤔
+## 🤔 What is WhatsAlexa Modified version?! 🤔
 - **WhatsAlexa** is a Helper WhatsApp Bot Written with **[Baileys](https://github.com/adiwajshing/baileys)** Which is hosted on **[Heroku Cloud Server](https://heroku.com).** Also Alexa has a **Lot of Commands/Features,** Including **Voice Chat.**
 
 <div align="center">
@@ -6,7 +6,7 @@
   <h1>WhatsAlexa</h1>
 </div>
 <p align="center">
-    WhatsAlexa is a Helper WhatsApp Bot Written By @TOXIC-DEVIL with Baileys. Alexa has a lot of Features/Commans Including Voice Chat [ AI ].
+    WhatsAlexa modified version is a Helper WhatsApp Bot Written By @kaweesha chamodk with Baileys. Alexa has a lot of Features/Commans Including Voice Chat [ AI ].
     <br>
 
 ## ⚙️ Setup ⚙️
@@ -26,7 +26,7 @@
 >+ node alexa.js
 ```
 
-## 💫 Deploy & Run WhatsAlexa 💫
+## 💫 Deploy & Run WhatsAlexa modified version 💫
 
 **If You are Lazy to Download Termux or Concerned About Memory leaks, You can Use Below Button 'Run on Replit' to scan QR Code, Also Laptop/Computer is More Confortable To Scan the QR Code.**
 
