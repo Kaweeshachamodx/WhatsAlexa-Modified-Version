@@ -15,7 +15,7 @@
 
 >+ pkg install nodejs
 
->+ git clone https://github.com/TOXIC-DEVIL/WhatsAlexa
+>+ git clone https://github.com/Kaweeshachamodk/WhatsAlexa-Modified-Version
 
 >+ cd WhatsAlexa
 
@@ -34,7 +34,7 @@
 
 **You must Deploy on Heroku by clicking 'Deploy to Heroku' Button.**
 
-[![Deploy-WhatsAlexa](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Kaweeshachamodk/WhatsAlexa-1)
+[![Deploy-WhatsAlexa](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Kaweeshachamodk/WhatsAlexa-Modified-Version)
 
 ## ❔ F A Q ( Frequently Asked Questions. ) ❔
 
