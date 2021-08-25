@@ -104,7 +104,7 @@ Author: Developer, Base, Bug Fixes, Commits, Modules |
   
   
   
-  https://i.imgur.com/MZDCN2M.jpegi
+  
   
   ## ✨ Special Features ✨
 
